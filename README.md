@@ -1,5 +1,5 @@
 ## Login-Form
-Simple login form, created using HTML, CSS, JavaScript & PHP.
+Simple login form created using HTML, CSS, JavaScript & PHP.
 
 <img src="https://user-images.githubusercontent.com/66881641/84702099-05edc580-af4e-11ea-8212-82a97e8acf1b.png" width="500">
 
