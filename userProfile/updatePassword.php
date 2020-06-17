@@ -12,7 +12,7 @@ if(!isset($_SESSION)){
 }
 
 $user = $_SESSION['name'];
-
+  
 if($user) {
     if (isset($_POST['submit'])) {
         $oldpassword = ($_POST['oldpassword']);
