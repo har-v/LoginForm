@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
     <meta charset="UTF-8">
     <title>Register</title>
-</head>
+</head>  
 <body>
 <div class="form">
     <div class="header-image">
