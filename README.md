@@ -5,6 +5,7 @@ Simple login form created using HTML, CSS, JavaScript & PHP.
 
 ### To-do:
 - [ ] Password and username recovery
+- [ ] Update design
 ### Completed:
 - [x] Register form
 - [x] Login form
