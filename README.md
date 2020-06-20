@@ -3,7 +3,7 @@ Login form and journal -- being created using HTML, CSS, JS & PHP.
 
 ### Designs
 #### New Design
-<img src="https://user-images.githubusercontent.com/66881641/85191506-1045f180-b2b7-11ea-8215-5da0577f24f6.PNG" width="700">
+<img src="https://user-images.githubusercontent.com/66881641/85207356-30f66180-b320-11ea-90b6-e0945398d3f4.PNG" width="700">
 
 ### Old Design
 <img src="https://user-images.githubusercontent.com/66881641/84702099-05edc580-af4e-11ea-8212-82a97e8acf1b.png" width="500">
