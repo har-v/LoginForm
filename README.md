@@ -1,7 +1,5 @@
 ## Register/Login Form & Journal
-Simple login form and journal created using HTML, CSS, JavaScript & PHP.
-
-###
+Login form and journal -- being created using HTML, CSS, JS & PHP.
 
 ### Designs
 #### New Design
