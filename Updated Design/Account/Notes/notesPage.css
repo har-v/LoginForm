@@ -1,0 +1,137 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    background-image: linear-gradient(#473f6e, #65517c, #806188);
+}
+
+.container {
+    background-color: white;
+    box-shadow:0 0 40px rgb(45, 36, 56);
+    padding-top: 80px;
+    border-radius: 30px;
+    width: 350px;
+    height: 585px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: auto;
+}
+
+.back {
+    background-image: url(../../media/icons8-long-arrow-left-50-black.png);
+    height: 40px;
+    width: 40px;
+    background-size: 40px;
+    margin-left: 25px;
+    margin-top: -60px;
+    position: fixed;
+    cursor: pointer;
+    color: white;
+}
+
+.title {
+    font-family: 'Quicksand', sans-serif;
+    color: #6d567f;
+    font-size: 35px;
+    text-align: center;
+    margin-top: -25px;
+    margin-right: 210px;
+    font-weight: bolder;
+}
+
+.sub-title {
+    font-family: 'Staatliches', cursive;
+    color: #6d567f;
+    font-size: 50px;
+    text-align: center;
+    margin-top: -5px;
+    margin-right: 189px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.logo {
+    background-image: url(../../media/icons8-add-64.png);
+    height: 73px;
+    width: 72px;
+    background-size: 70px;
+    position: absolute;
+    top: 13%;
+    left: 70%;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+.add-btn{
+    border: 1px solid #cccccc;
+    width: 40%;
+    padding: 10px 5px 10px 22px;
+    margin-left: 90px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #6d567f;
+}
+
+.content-section {
+    margin: 0 20px 40px 20px;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.box {
+    padding: 10px 10px 10px 10px;
+    border-radius: 6px;
+    background-color: rgba(142, 81, 94, 0.53);
+}
+
+.header, .edit-buttons {
+    display: inline-block;
+}
+
+.note-title{
+    float:left;
+    font-weight: bold;
+}
+
+.time{
+    float: right;
+    margin-left: 90px;
+}
+
+.date {
+    float:right;
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+
+.delete {
+    float: right;
+    margin-left: 190px;
+}
+
+.edit {
+    float:left;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+.content-section-description{
+    text-align: justify;
+}
+
+
+

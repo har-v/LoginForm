@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    background-image: linear-gradient(#473f6e, #65517c, #806188) ;
+}
+
+.container {
+    background-image: linear-gradient(#4a416f, #66527c, #806188);
+    box-shadow:0 0 40px rgb(45, 36, 56);
+    padding-top: 80px;
+    border-radius: 30px;
+    width: 350px;
+    height: 585px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: auto;
+}
+
+.back {
+    background-image: url(../../media/icons8-long-arrow-left-50-white.png);
+    height: 40px;
+    width: 40px;
+    background-size: 40px;
+    margin-left: 25px;
+    margin-top: -60px;
+    position: fixed;
+    cursor: pointer;
+    color: white;
+}
+
+.title {
+    font-family: 'Staatliches', cursive;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    margin-top: -55px;
+}
+
+.description {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    text-align: justify;
+    margin: 10px 20px 20px 20px;
+}
+
+.box {
+    border: 3px rgb(255, 255, 255) solid;
+    margin: 0 20px 40px 20px;
+}
+
+.content-section-title{
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    margin: 10px 10px 10px 10px;
+    font-weight: bold;
+    border-bottom: 1px solid white;
+}
+
+.content-section-description {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    text-align: justify;
+    margin: 10px 10px 10px 10px;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+
+
