@@ -1,4 +1,4 @@
-## Register/Login Form & Journal
+## Dream Journal
 Login form and journal -- HTML, CSS, JS & PHP.
 
 ### Designs
